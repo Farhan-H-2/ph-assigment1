@@ -260,14 +260,6 @@ margin-bottom:10px;
 padding: 10px 14px 10px 14px;
 }
 
-.jajira{
-    display: flex;
-flex-direction: row;
-justify-content: flex-start;
-align-items: center;
-gap: 120px;
-padding: 48px;
-
 
 /* Inside Auto Layout */
 flex: none;
@@ -365,50 +357,6 @@ text-align: left;
 gap: 10px;
 }
 
-.taka1:hover{
-    color: rgb(9, 78, 30);
-
-    box-sizing: border-box;
-border: 1px solid rgba(14, 14, 14, 0.15);
-border-radius: 16px;
-
-background: rgb(255, 255, 255);
-
-
-}
-.taka2:hover{
-
-    color: rgb(68, 180, 101);
-
-    box-sizing: border-box;
-    border: 1px solid rgba(14, 14, 14, 0.15);
-    border-radius: 16px;
-    
-    background: rgb(198, 228, 214);
-
-}
-.taka3:hover{
-
-    color: rgb(146, 54, 91);
-    box-sizing: border-box;
-border: 1px solid rgba(14, 14, 14, 0.15);
-border-radius: 16px;
-
-background: rgb(255, 255, 255);
-
-
-}
-.taka4:hover{
-    color: rgb(9, 78, 18);
-
-    box-sizing: border-box;
-border: 1px solid rgba(14, 14, 14, 0.15);
-border-radius: 16px;
-
-background: rgb(255, 255, 255);
-
-
-}
 
 .input{
 
