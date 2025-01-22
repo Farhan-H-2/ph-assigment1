@@ -1,0 +1,482 @@
+.header3{
+
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0%;
+    text-align: left;
+
+}
+.button1{
+
+    color: rgb(0, 106, 80);
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 100px;
+    line-height: 10px;
+    letter-spacing: 0%;
+    text-align: right;
+    box-sizing: border-box;
+    border: 1px solid rgb(38, 178, 143);
+    border-radius: 8px;
+ 
+     padding: 15px 30px 15px 30px
+   
+
+}
+.section1{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.section2{
+width: 1280px;
+height: 560px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 80px 100px 80px 100px;
+flex: none;
+margin:20px 100px 0px 100px;
+border-radius: 24px;
+
+background: rgb(198, 228, 214);
+}
+.p1{
+
+    color: rgba(14, 14, 14, 0.5);
+font-family: Fira Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;
+}
+.header4{
+
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 56px;
+font-weight: 700;
+line-height: 67px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+
+.button2{
+
+ background-color: rgb(0, 106, 80);
+ border-radius:7px;
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+color: white;
+
+}
+.div1{
+
+    border-radius: 24px;
+
+background:rgb(198, 228, 214) ;
+}
+.Pillars{
+    display: flex;
+    margin:20px 100px 0px 100px;
+    gap:30px;
+   
+}
+.header5{
+
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-left: 100px;
+
+}
+
+.ino{
+
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+}
+.sus{
+
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+}
+.infa{
+
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+}
+.emp{
+
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+}
+
+.aim{
+
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+margin-left:100px;
+}
+
+.Pillar{
+
+  display: flex;
+ margin-left: 100px;
+ gap:30px;
+}
+
+.l{
+    border-radius: 8px;
+
+    background: rgb(84, 144, 245);
+
+}
+
+.e{
+    border-radius: 8px;
+
+    background: rgb(9, 161, 92);
+
+}
+.r{
+
+    box-sizing: border-box;
+    border-radius: 16px;
+    
+    background: rgb(247, 235, 207);
+}
+
+.dig{
+
+    box-sizing: border-box;
+border-radius: 16px;
+
+background: rgba(84, 144, 245, 0.2);
+}
+
+.green{
+
+    box-sizing: border-box;
+border-radius: 16px;
+
+background: rgb(198, 228, 214);
+}
+
+.mod{
+
+    box-sizing: border-box;
+border-radius: 16px;
+
+background: rgb(247, 235, 207);
+}
+.younus{
+
+    background-image: url("../assets/quote-bg.png");
+    background-position: top left;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    margin-top:20px;
+    margin-left: 100px;
+    
+}
+
+.ques{
+
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+background: rgb(198, 228, 214);
+color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: left;
+margin-left:100px;
+}
+.do{
+
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+background: rgba(255, 255, 255, 0.1);
+color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.agr{
+
+    box-sizing: border-box;
+border: 1px solid rgb(14, 14, 14);
+border-radius: 4px;
+
+background: rgb(198, 228, 214);
+gap: 12;
+margin-top: 10px;
+margin-right:10px;
+margin-bottom:10px;
+padding: 10px 14px 10px 14px;
+}
+
+.jajira{
+    display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+gap: 120px;
+padding: 48px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 24px 0px;
+border-radius: 24px;
+
+background: rgb(255, 255, 255);
+margin-left:100px;
+}
+
+
+
+.aimss{
+
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+margin-left: 100px;
+
+}
+
+.img{
+
+    margin-left:100px;
+    border-radius:8px;
+}
+
+.Read{
+
+    border-radius: 8px;
+
+background: rgb(0, 106, 80);
+color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.header6{
+
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 32px;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+
+.footer{
+
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+
+}
+
+.nation{
+
+    justify-content: center;
+    text-align: center;
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+margin-left: 100px;
+
+}
+
+.taka{
+
+    display: flex;
+    justify-content: space-around;
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: left;
+
+gap: 10px;
+}
+
+.taka1:hover{
+    color: rgb(9, 78, 30);
+
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+
+
+}
+.taka2:hover{
+
+    color: rgb(68, 180, 101);
+
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    
+    background: rgb(198, 228, 214);
+
+}
+.taka3:hover{
+
+    color: rgb(146, 54, 91);
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+
+
+}
+.taka4:hover{
+    color: rgb(9, 78, 18);
+
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+
+
+}
+
+.input{
+
+    justify-content: center;
+    text-align: center;
+}
+.now{
+
+    justify-content: center;
+    text-align: center;
+    
+
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.1);
+    border-radius: 8px;
+    
+    background: rgb(0, 106, 80);
+}
+.last{
+
+    border-radius: 24px;
+
+background: rgb(198, 228, 214);
+}
+
+.lastt{
+
+display: flex;
+justify-content: center;
+
+}
+
+.last2{
+position: static;
+width: 300px;
+height: 20px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 24;
+padding: 18px 40px 18px 40px;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 0px;
+    border-radius: 8px 0px 0px 8px;
+
+background: rgb(255, 255, 255);
+}
+.last3{
+color: aliceblue;
+    border-radius: 0px 8px 8px 0px;
+
+background: rgb(0, 106, 80);
+}
+
+.nation1{
+    
+    justify-content: center;
+    text-align: center;
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+margin-left: 60px;
+
+
+}
