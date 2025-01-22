@@ -324,7 +324,7 @@ text-align: center;
 
     display: flex;
     justify-content: center;
-    gap: 16px;
+    gap:0px;
 
 }
 
@@ -340,21 +340,6 @@ line-height: 24px;
 letter-spacing: 0%;
 margin-left: 100px;
 
-}
-
-.taka{
-
-    display: flex;
-    justify-content: space-around;
-    color: rgba(14, 14, 14, 0.8);
-font-family: Fira Sans;
-font-size: 40px;
-font-weight: 700;
-line-height: 48px;
-letter-spacing: 0%;
-text-align: left;
-
-gap: 10px;
 }
 
 
