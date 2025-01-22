@@ -201,17 +201,6 @@ border-radius: 16px;
 
 background: rgb(247, 235, 207);
 }
-.younus{
-
-    background-image: url("../assets/quote-bg.png");
-    background-position: top left;
-    background-repeat: no-repeat;
-    display: flex;
-    flex-direction: column;
-    margin-top:20px;
-    margin-left: 100px;
-    
-}
 
 .ques{
 
